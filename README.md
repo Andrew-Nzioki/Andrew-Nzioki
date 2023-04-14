@@ -11,10 +11,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Andrew-Nzioki&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Andrew-Nzioki&theme=darcula&hide_border=false)<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-nzioki&show_icons=true&locale=en &theme=darcula&hide_border=false" alt="andrew-nzioki" /></p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Nzioki&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Andrew-Nzioki&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=NziokiAndrew)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
@@ -26,8 +24,6 @@
 [![](https://visitcount.itsvg.in/api?id=Andrew-Nzioki&icon=9&color=3)](https://visitcount.itsvg.in)
 
 
-<h1 align="center">Hi 👋, I'm Andrew Nzioki</h1>
-<h3 align="center">A passionate backend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrew-nzioki&label=Profile%20views&color=0e75b6&style=flat" alt="andrew-nzioki" /> </p>
 
@@ -41,7 +37,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrew-nzioki&show_icons=true&locale=en&layout=compact" alt="andrew-nzioki" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-nzioki&show_icons=true&locale=en" alt="andrew-nzioki" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-nzioki&" alt="andrew-nzioki" /></p>
 
