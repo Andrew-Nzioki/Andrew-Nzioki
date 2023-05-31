@@ -2,7 +2,6 @@
 🇰🇪
 🔭 I’m currently working on my portfolio and backend skills . Python flask and fast api..<br>👯 I’m looking to collaborate on any opensource project<br>🤝 I’m looking for help with Fulltime work<br>🌱 I’m currently learning React js<br>💬 Ask me about anything<br>⚡ Life does not stop<br><br>I am a highly skilled full-stack developer with expertise in Javascript, React JS, Node JS, Express JS, and MongoDB. My passion for programming started at an early age, and since then, I have honed my skills through continuous learning and practical experience. I have a strong track record of building successful web applications that are both scalable and efficient.<br><br>Philosophy:<br><br>My life philosophy is centered on the idea of continuous learning and self-improvement. As a developer, I am constantly striving to improve my skills and stay up-to-date with the latest trends and technologies in the industry. I believe that a growth mindset is essential in any field, and I am always looking for new challenges to push my boundaries and expand my horizons.<br><br>In addition, I am a firm believer in the power of collaboration and teamwork. I understand the importance of working together to achieve common goals, and I always strive to foster an environment of open communication and mutual respect in my professional relationships.<br><br>In summary, I am a dedicated and driven full-stack developer who is committed to delivering high-quality solutions that meet the needs of clients and end-users. With a strong focus on continuous learning and teamwork, I am confident in my ability to tackle any project and deliver outstanding results.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nziokiandrew) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Andrew-Nzioki) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Andrew-Nzioki) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NziokiAndrew) 
 
@@ -15,8 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew-Nzioki&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=NziokiAndrew)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
@@ -24,5 +21,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-
 
