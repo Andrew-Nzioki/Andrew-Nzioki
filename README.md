@@ -21,4 +21,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-
+[![wakatime](https://wakatime.com/badge/user/b578d593-3a95-4f56-ac24-4ded86412071.svg)](https://wakatime.com/@b578d593-3a95-4f56-ac24-4ded86412071)
