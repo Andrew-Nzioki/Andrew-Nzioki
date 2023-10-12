@@ -1,7 +1,7 @@
 # 🐻About Me:
 🇰🇪
 # 💫 About Me:
-🔭 I’m currently working on fastapi<br>👯 I’m collaborating on opensource with Italant<br>🤝 I’m looking for help with Jenkins <br>🌱 I’m currently learning fastapi<br>💬 Ask me about life<br>⚡ Fun fact is I very optmistic
+🔭 I’m currently working on fastapi backend<br>👯 I’m collaborating on opensource with Italant<br>🤝 I’m looking for help with Jenkins <br>🌱 I’m currently learning fastapi<br>💬 Ask me about life<br>⚡ Fun fact is I very optmistic
 
 
 ## 🌐 Socials:
