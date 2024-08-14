@@ -1,9 +1,6 @@
 # 🐻About Me:
 🇰🇪
 
-## What Drives Me
-
-I’m passionate about streamlining processes, solving complex problems, and continuously learning. Whether it’s building robust web applications, deploying scalable systems, or exploring new technologies, I thrive on challenges and innovation.
 
 
 
