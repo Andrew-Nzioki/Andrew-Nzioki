@@ -1,6 +1,6 @@
 # 🐻
 🇰🇪
-- just a dev
+just a dev
 
 
 
